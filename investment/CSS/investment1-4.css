@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.left>ul>li>ul>li:nth-child(4) a{font-weight:bold; color:#005aab;}
+.center{width:580px;}
+.center .zuo,.center .zhong,.center .you{background:#f3f3f5; height:81px; float:left; text-align:center;}
+.center p{margin-top:0;}
+.center .zuo{width:100px; margin-right:1px;}
+.center .zuo p{font-size:18px; color:#606060; font-family:"黑体"; font-weight:bold;}
+.center .zuo p:first-child{margin-top:21px;}
+.center .zhong{width:150px; margin-right:1px;}
+.center .zhong p:first-child{line-height:48px; font-size:20px;}
+.center .zhong p:nth-child(2){line-height:12px;}
+.center .zhong p:nth-child(3){color:#1e0000;}
+.center .zhong span{color:#008000;}
+.center .you{width:300px;}
+.center .you p{color:#353c3d;}
+.center .you p:first-child{height:40px; line-height:40px; margin-bottom:1px;}
+.center .you span:first-child{color:#ff1600;}
+.center .you span:nth-child(2),.center .you span:nth-child(3){color:#1e8000;}

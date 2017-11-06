@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.box{ width:100%; background:url(../images/P020131123507194959918.jpg); height:239px;}
+.header{ width:1000px; border-bottom: 40px solid #005aab; border-left: 40px solid transparent; border-right: 40px solid transparent;  margin:0 auto; position:absolute; left:0; top:-40px;}
+.header h2{ position: absolute; top:11px; left: 35px; font-size: 16px; color: #FFF;}
+.header p{ font-size: 12px; color: #c3dcf2; position: absolute; left: 168px; top:13px;}
+.header p a{ color:#c3dcf2;}
+.main .left>ul>li:nth-child(2){background:#005aab;}
+.main .left>ul>li:nth-child(2)>a{color: #fff;}
+.main .left>ul>li:nth-child(2){background:#005aab;}
+.main .left>ul>li:nth-child(2)>a{color: #fff;}
+.main{  position:relative; width:1000px; margin:0 auto; font-family:"微软雅黑";}
+.main .content{ width:765px; padding-left:35px; float:left;}
+.main .content .top{ width:765px; border-bottom:1px solid #CCC; margin-bottom:18px;}
+.main .content .top h2{ height:61px; line-height:61px; font-size:18px; color:#303030; padding-top:12px;}
+.main .content .top>p{ height:35px; background:#005aab; line-height:35px; font-size:14px; text-align:center; color:#eff4f9; width:89px;}
+.main .content ul{ width:765px; padding-bottom:42px;}
+.main .content li{ width:765px;}
+.main .content li>a{ display:block; float:left; width:211px;}
+.main .content li>a img{ display:block;}
+.main .content li .right{ width:540px; float:left; padding-bottom:50px;}
+.main .content li .right h3{ height:44px; line-height:44px; font-size:12px; color:#606060; cursor:pointer;}
+.main .content li .right>p{ line-height:18px; font-size:12px; color:#606060;}
+.main .content li .right>a{ display:block; width:100px; padding-left:16px; height:35px; line-height:35px; font-size:12px; color:#005aaa; float:left; background:url(../images/ico_02d.jpg) no-repeat left center;}
+

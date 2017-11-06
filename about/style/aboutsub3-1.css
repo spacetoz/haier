@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.box{ width:100%; background:url(../images/P020131123507194959918.jpg); height:239px;}
+.header{ width:1000px; border-bottom: 40px solid #005aab; border-left: 40px solid transparent; border-right: 40px solid transparent;   margin:0 auto; position:absolute; left:0; top:-40px;}
+.header h2{ position: absolute; top:11px; left: 35px; font-size: 16px; color: #FFF;}
+.header p{ font-size: 12px; color: #c3dcf2; position: absolute; left: 168px; top:13px;}
+.header p a{ color:#c3dcf2;}
+.main .left>ul>li:nth-child(3){background:#005aab;}
+.main .left>ul>li:nth-child(3)>a{color: #fff;}
+.main .left ul li ul li:nth-child(1) a{color:#005aab ;font-weight: 700;}
+.main{  position:relative; width:1000px; margin:0 auto;  }
+.main .right{ width:765px; padding-left:35px; float:left; padding-bottom:185px;}
+.main .right .top{ width:765px;}
+.main .right .top img{ padding:28px 15px 19px 0; display:block; float:left;}
+.main .right p{ width:765px; font-size:12px; color:#666666; line-height:18px;}
+

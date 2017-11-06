@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+ul,li,p,img,h1,h2,h3,h4,h5,h6,label{display:block;}
+ul{list-style:none;}
+img{border:0;}
+a{text-decoration:none;outline:none;}
+.clearfix:after{display:block;height:0;content:".";clear:both;visibility:hidden;}
+.ellipsis{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+body{font-family:"微软雅黑";}
+.stock_dividend .stock_bold {font-weight: bold;color: #303030;margin-top: 12px;margin-bottom: 7px;}
+.li_w64 {width: 64px;}
+.li_w178 {width: 178px;}
+.li_w241 {width: 241px;}
+.li_w246{width: 246px;}
+.stock_line {border-top: 1px solid #efefef;width: 615px;margin-left: 64px;margin-top: 13px;margin-bottom: 16px;}
+

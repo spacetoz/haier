@@ -1,0 +1,20 @@
+.main .left ul li ul li:nth-child(1) a{color:#005aab ;font-weight: bold;}
+.main .left{width: 200px;}
+.main .left ul li{text-align: center;line-height: 36px;height: 36px;}
+.main .left>ul>li{background:#f2f2f2;font-size: 14px;}
+.main .left>ul>li>a{color: #606060;}
+.main .left ul li ul li a{color: #333;}
+.main .left ul li ul li a:hover {color:#005aab;font-weight: bold;}
+.main .left>ul>li:nth-child(2)>a{color: #fff;}
+.main .left>ul>li:nth-child(2){background:#005aab;}
+.main .left ul li ul li:last-child{border:0;}
+.main .left>ul>li:hover {background: #005AAB;}
+.main .left>ul>li:hover>a{color: #fff;}
+.main .left ul li ul li{font-size: 12px;background: #ccdeee;border-bottom: 1px dashed #fff;}
+.main .right{width:780px;padding-top:18px;padding-left:20px;padding-bottom: 140px;}
+.main .right h3{height: 55px;line-height: 55px;font-size: 18px;}
+.main .right>p:nth-child(2){height: 25px;color: #6e6e6e;line-height: 25px;font-size: 12px;border-bottom: 1px solid #ccc;}
+.main .right h4{color:#606060;text-align:center;height: 32px;line-height: 32px;font-size: 12px;}
+.main .right h5{color:#606060;height: 34px;line-height: 34px;font-size: 12px;margin-bottom: 5px;}
+.main .right p{line-height: 20px;font-size: 12px;}
+.main .right>p:nth-child(12){border-bottom: 1px solid #ccc;padding-bottom: 8px;margin-bottom: 20px;}

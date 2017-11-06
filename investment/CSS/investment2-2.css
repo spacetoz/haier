@@ -1,0 +1,5 @@
+.left>ul>li>ul>li:nth-child(2) a{font-weight:bold; color:#005aab;}
+.right{width: 748px;padding-left:19px;padding-bottom: 30px;}
+.right h2{font-size:18px; line-height:74px;}
+.right p{font-size:12px; color:#606060; margin-top:29px; line-height:20px;}
+.right img{margin-bottom: 20px;border-bottom: 1px solid #ccc;padding-bottom: 20px;}

@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner{width:1263px;margin:0 auto;}
+.banner img{width:1263px; height:240px;}
+.top{width:100%; position:absolute; left:0; top:-40px;}
+.top h2{height:40px;font-weight:inherit;width:1000px; background:url(../images/piv_03_03.jpg) no-repeat; font-size:16px; color:#ffffff; padding-left:68px; line-height:40px;}
+.top h2 span{ font-size:12px; color:#c3dcf2; margin-left:69px;}
+.wrap{width:100%}
+.wrap .wrap-1{width:1000px; margin:0 auto;position:relative;}
+.wrap .wrap-1 .left ul{width:200px;}
+.wrap .wrap-1 .left,.wrap .wrap-1 .right{float:left;}
+.wrap .wrap-1 .left ul li{height:31px; line-height:31px; background:#ccdeee;text-align:center; border-bottom:1px double #e0ebf5;}
+.wrap .wrap-1 .left ul li a{font-size:12px; color:#333333;}
+.wrap .wrap-1 .left ul li a:hover{font-weight:bold; color:#005aab;}
+.wrap .wrap-1 .left ul li:nth-child(6) a{font-weight:bold; color:#005aab;} 
+.wrap .wrap-1 .left ul li:first-child{height:31px; line-height:31px; background:#005aab; text-align:center;}
+.wrap .wrap-1 .left ul li:first-child a{font-size:14px; color:#ffffff;}
+.wrap .wrap-1 .right{width:765px; padding-left:35px; padding-top:33px;}
+.wrap .wrap-1 .right h3{font-size:18px; color:#303030; margin-bottom:22px;}
+.wrap .wrap-1 .right img{margin-bottom:20px;}
+.wrap .wrap-1 .right p{font-size:12px; color:#606060; height:20px; line-height:20px; text-indent:28px; margin-bottom:70px;}
+.top h2 span a{color:#c3dcf2;}
+.top h2 span a:hover{color:#c3dcf2;}

@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main .right p:nth-child(12){border-bottom:1px solid #d8d8d8; padding-bottom:16px; margin-bottom:11px;}
+.main .left li:nth-child(1){background:#005aab;}
+.main .left li:nth-child(1) a{color:#FFF;}

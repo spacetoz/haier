@@ -1,0 +1,24 @@
+.main .left ul li ul li:nth-child(5) a{color:#005aab ;font-weight: bold;}
+.main .left{width: 200px;}
+.main .left ul li{text-align: center;line-height: 36px;height: 36px;}
+.main .left>ul>li{background:#f2f2f2;font-size: 14px;}
+.main .left>ul>li>a{color: #606060;}
+.main .left ul li ul li a{color: #333;}
+.main .left ul li ul li a:hover {color:#005aab;font-weight: bold;}
+.main .left>ul>li:nth-child(2)>a{color: #fff;}
+.main .left>ul>li:nth-child(2){background:#005aab;}
+.main .left>ul>li:hover {background: #005AAB;}
+.main .left ul li ul li:last-child{border:0;}
+.main .left>ul>li:hover>a{color: #fff;}
+.main .left ul li ul li{font-size: 12px;background: #ccdeee;border-bottom: 1px dashed #fff;}
+.main .right{width:780px;padding-top:18px;padding-left:20px;padding-bottom: 140px;}
+.main .right h3{height: 55px;line-height: 55px;font-size: 16px;}
+.main .right ul{padding-bottom: 48px;border-bottom: 1px solid #ccc;margin-bottom: 20px;}
+.main .right ul li{float: left;width: 240px;margin-right: 18px;}
+.main .right ul li img{width: 238px;height: 148px;border:1px solid #ccc;}
+.main .right ul li p{text-align: center;padding-bottom:15px;padding-top:10px;line-height: 20px;font-size: 12px;color: #6e6e69;}
+.main .right .button {padding-left:76px;}
+.main .right .button a{display: block;float: left;}
+.main .right .button a{border-radius:8px;width: 30px;line-height: 30px;color:#c6ccda;margin-right:5px;text-align:center;height: 30px;font-size: 12px;}
+.main .right .button a:nth-child(1){background: #f2f2f2;color: #707070;}
+.main .right .button a:nth-child(4){background: #33beff;color: #fff;width: 70px;}
